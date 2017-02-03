@@ -10,7 +10,7 @@
 
 *** 图片
 
-    [[./image/snull.png]]
+    [[./images/snull.png]]
 
 * 一级标题
 ** 二级标题
