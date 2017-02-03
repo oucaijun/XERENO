@@ -1,0 +1,43 @@
+#+TITLE: 大标题
+#+DATE: 2017-2-3
+请查看本文件的源代码，学习如何在github里面编写有简单排版的README主页。
+
+请查看本文件的源代码，学习如何在github里面编写有简单排版的README主页。
+
+请查看本文件的源代码，学习如何在github里面编写有简单排版的README主页。
+    1. =CONFIG_DEBUG_KERNEL=
+         打开此项后，就可以使其他的一些调试选项可见。
+图片
+[[https://github.com/oucaijun/ldd3/tree/master/images/snull.png]]
+
+* 一级标题
+** 二级标题
+*** 三级标题
+**** 四级标题
+
+#+BEGIN_SRC
+  代码
+  main()
+  {
+    ;
+  }
+#+END_SRC
+
+- [[http://blog.csdn.net/fuyajun01/article/details/7463625][链接名字]]
+- 实心圆圈项目符号
+- [http://blog.csdn.net/fuyajun01/article/details/7463625] 链接
+
+ =背景= 
+ - 空心圆圈项目符号 
+ - =有背景的空心圆圈项目符号= 
+
+       
+表格
+  | snullnet0 | 192.168.0.0 |
+  | snullnet1 | 192.168.1.0 |
+  
+加粗表格
+  | snullnet0 | 192.168.0.0 |
+  |-----------+-------------|         
+
+  
