@@ -7,7 +7,8 @@
 请查看本文件的源代码，学习如何在github里面编写有简单排版的README主页。
     1. =CONFIG_DEBUG_KERNEL=
          打开此项后，就可以使其他的一些调试选项可见。
-
+图片
+[[https://github.com/oucaijun/ldd3/tree/master/images/snull.png]]
 
 * 一级标题
 ** 二级标题
