@@ -8,7 +8,7 @@
     1. =CONFIG_DEBUG_KERNEL=
          打开此项后，就可以使其他的一些调试选项可见。
 图片
-[[./images/snull.png]]
+[[./image/snull.png]]
 
 * 一级标题
 ** 二级标题
